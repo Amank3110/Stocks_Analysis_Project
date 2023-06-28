@@ -65,3 +65,7 @@ The project performs the following analyses on the stock price data:
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## Contact
+
+For any inquiries or collaborations, feel free to reach out to me at amankumar80451@gmail.com or connect with me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/aman-kumar-3bab59201/).
